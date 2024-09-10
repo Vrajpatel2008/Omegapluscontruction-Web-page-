@@ -249,8 +249,9 @@ div.scroll-container img {
 
 .footer-middle {
     background-color: #F9F9F9;
-    margin: 100px 0px;
+    margin: 30px 0px;
     display: flex;
+    padding: 40px 0px;
     justify-content: space-between;
 }
 
